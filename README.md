@@ -16,11 +16,3 @@ We are still trying to figure out how to create a teleporter. There is quite an 
 
 # How you can contribute
 Any sort of contribution is welcome. Even if you don't have any background in physics, electronics or spacetime management, you can still be of help. You can help with documentation or community support. 
-
-# Code of Conduct
-As for now, you probably understood that this project is not exactly serious. However, we take our human side very seriously. If you see this as something fun and would like to contribute in some way, you need to make sure that everyone else feels safe and welcomed. So:
-* Everyone is welcommed. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, religion, and mental and physical ability.
-
-* No exclusionary or discriminatory text in any contributions, issues or comments are allowed. 
-
-* If you don't agree with others' choices of technologies, approaches or tools, or if you see errors or mistakes in their code, text, whatever, don't be rude to them. Address issues nicely and politely.
