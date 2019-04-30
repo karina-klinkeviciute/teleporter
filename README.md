@@ -1,5 +1,5 @@
 # Teleporter
-A repo for drafts and plans for a teleporter
+We are building a teleporeter here.
 
 # How this idea came to life
 With a friend we often would talk "I'm eating this delicious vegan icecream." "Oh, I would like some too" "I would gladly give you some if you were here". 
