@@ -2,9 +2,9 @@
 We are building a teleporeter here.
 
 # How this idea came to life
-With a friend we often would talk "I'm eating this delicious vegan icecream." "Oh, I would like some too" "I would gladly give you some if you were here". 
+I would often talk to a friend something like "I'm eating this delicious vegan icecream." "Oh, I would like some too" "I would gladly give you some if you were here". 
 Or, like "I need a hug" "I'd hug you if I were there with you". 
-Unfortunately we often would be quite far from each other, like in different cities or countries. It would involve ours or days of travelling. 
+Unfortunately we often would be quite far from each other, like in different cities or countries. It would involve hours or days of travelling. 
 That's how we came up with this idea of building a teleporter so that we could travel to each other much faster and easier.
 
 # A Plan
